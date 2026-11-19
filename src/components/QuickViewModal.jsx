@@ -261,3 +261,4 @@ const QuickViewModal = () => {
 };
 
 export default QuickViewModal;
+

@@ -539,3 +539,4 @@ export const faqs = [
     answer: "Clean your gold and diamond jewellery gently with warm water, mild dish soap, and a soft-bristled brush. Store pieces separately in our anti-tarnish velvet boxes to prevent abrasions."
   }
 ];
+

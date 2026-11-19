@@ -201,3 +201,4 @@ Use these concise explanations during your viva demonstration:
 ## 📜 License
 
 Created for academic internship viva demonstration purposes. All brand concepts inspired by The Unjellic Jewellery.
+
